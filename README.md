@@ -11,6 +11,7 @@ I will be doing these challenges in C#, where I will make use of [Microsoft Poly
 ## Directory
 Each challenge will be contained within its own folder. Each folder will contain two text files and a notebook. One text file will be the sample input, and another text file will be my real input. Note to those who use this repo: your input will be specific to you, so using mine would yield incorrect answers for you if you are playing along. The structure of this repo will look something like this:
 
+```
 Day 1
 	- sample.txt
 	- input.txt
@@ -19,4 +20,6 @@ Day 2
 	- sample.txt
 	- input.txt
 	- challenge.ipynb
-Day 3 ...
+
+...
+```
