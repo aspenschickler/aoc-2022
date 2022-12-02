@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-<p> <img src="https://img.shields.io/badge/day-1-blue" alt="Current day of AOC"> </p>
+<p> <img src="https://img.shields.io/badge/day-2-blue" alt="Current day of AOC"> </p>
 
 ## Summary
 This repo contains my solutions for [Advent of Code 2022](https://adventofcode.com/). AOC is a series of daily coding challenges that release daily starting December 1st and consist of two parts. To learn more, visit the official website.
